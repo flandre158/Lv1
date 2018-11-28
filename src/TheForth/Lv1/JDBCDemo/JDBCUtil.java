@@ -1,4 +1,4 @@
-package TheForth.Lv1;
+package TheForth.Lv1.JDBCDemo;
 
 import java.sql.*;
 //开头与结尾工作
