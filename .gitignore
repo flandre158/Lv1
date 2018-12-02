@@ -3,7 +3,10 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-#Java:
-*.idea
-*.libs
-*.out
+#Jar:
+/libs/*
+
+#idea:
+/.idea/*
+/out/*
+main.iml
