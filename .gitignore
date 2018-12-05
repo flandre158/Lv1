@@ -14,3 +14,4 @@ main.iml
 #test:
 /src/Test/*
 /src/TestTCP/*
+/src/Something/*
