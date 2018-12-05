@@ -10,3 +10,7 @@ Desktop.ini
 /.idea/*
 /out/*
 main.iml
+
+#test:
+/src/Test/*
+/src/TestTCP/*
